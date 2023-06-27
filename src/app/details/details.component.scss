@@ -1,0 +1,11 @@
+:host {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: flex-start;
+}
+.h6 {
+  height: max-content;
+  min-width: min-content;
+}
